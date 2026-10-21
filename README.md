@@ -69,6 +69,7 @@ install.packages(c("tidyverse", "tidymodels", "glmnet"))
 
 ## 👤 Author
 
-**Thomas De Laubier**  
+**Thomas de Laubier**  
 - Master's in Applied Mathematics & Statistics, Data Science & AI (*Université Rennes 2*)
 - [LinkedIn Profile](https://www.linkedin.com) • [GitHub Profile](https://github.com)
+
