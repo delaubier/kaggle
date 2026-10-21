@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large datasets (>100MB)
+*.zip
+*.tar.gz
+santander-customer-satisfaction/data/train.csv
+santander-customer-satisfaction/data/test.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
